@@ -1,0 +1,6 @@
+__pycache__/
+data/
+.env
+*.sqlite*
+questions-*.json
+evidence.json
